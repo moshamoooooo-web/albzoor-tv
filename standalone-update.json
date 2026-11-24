@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "sha256": "b0b0797e29aa49bb367c1738bbe28e62541ab159b1123ebc2d091a5f9f33060d",
-  "size": 19785906,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/standalone-v0.31.0/1-ALBZOOR-PLAYER-TV-8K-0.31.0.apk",
-  "notes": "تغيير الاسم إلى ALBZOOR PLAYER TV 8K. نفس التطبيق المستقل ونفس مفتاح التوقيع، دون تغيير تطبيقك القديم."
+  "versionCode": 33,
+  "sha256": "32648e486e71380d820b604ed757158a8a054505536220cc86f3f6614f7cf150",
+  "size": 19794098,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/standalone-v0.33.0/3-ALBZOOR-PLAYER-TV-8K-0.33.0.apk",
+  "notes": "تحديث المكتبة والتفاصيل وشريط البث والأفلام مع A وCC. تحسين خانات الحساب والكيبورد وبدايات الهوست والماك. إضافة شريط تقدم تنزيل التحديثات القادمة."
 }
