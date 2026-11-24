@@ -1,7 +1,7 @@
 {
-  "versionCode": 33,
-  "sha256": "32648e486e71380d820b604ed757158a8a054505536220cc86f3f6614f7cf150",
-  "size": 19794098,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/standalone-v0.33.0/3-ALBZOOR-PLAYER-TV-8K-0.33.0.apk",
-  "notes": "تحديث المكتبة والتفاصيل وشريط البث والأفلام مع A وCC. تحسين خانات الحساب والكيبورد وبدايات الهوست والماك. إضافة شريط تقدم تنزيل التحديثات القادمة."
+  "versionCode": 34,
+  "sha256": "337d7b63bf352cd3e142b25b7126b15247b14b1ce19b4c08a8af357eec50a16d",
+  "size": 19798194,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/standalone-v0.34.0/2-ALBZOOR-PLAYER-TV-8K-0.34.0.apk",
+  "notes": "تكبير قائمة قنوات البث وتحسين البحث الجزئي بالاسم والباقة في البث والأفلام والمسلسلات. إصلاح رجوع عمود القنوات بعد البحث. عدد القنوات وتاريخه تحت صلاحية الحساب مع جلب متتابع وحفظ النتائج. تشغيل أول قناة متاحة تلقائياً داخل معاينة البث فقط."
 }
