@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1-reborn",
+  "versionCode": 3,
+  "versionName": "1.0.2-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "ccda82c0f3a6d5fe9083927728ac17bfa9f459313a29a364fd2345f23544148c",
-  "size": 20203979,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.1/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.1.apk",
-  "notes": "Search return, remote CC/audio, loading/focus fixes, progress-aware large catalogs and streaming cache. Existing import UI retained. Physical TV testing pending."
+  "sha256": "d7c47ede31bebac0aaaf3fc0c25991b151de6c5426f1efa3bd6f56e074c3aa26",
+  "size": 20085307,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.2/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.2.apk",
+  "notes": "Large disk-backed catalogs; responsive cancellable search; keyboard-aware forms; shared Kufi UI font; updated import and Home background. Remote CC/audio, loading and browse return fixes. Physical TV/provider checks pending; intermittent black/silent playback cause not proven."
 }
