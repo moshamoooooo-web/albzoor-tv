@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.0.3-reborn",
+  "versionCode": 5,
+  "versionName": "1.0.4-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "61210d1a8df31663300aedc43de8e2e81f32c9b0a7bbefb01bd1a995a31df885",
+  "sha256": "3bef0ba21daeeb3ae0b6c33e41c75306916cc1ef51962d1cecf1501263378198",
   "size": 20097595,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.3/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.3.apk",
-  "notes": "Consolidated loading/cache/cancellation and remote/search return corrections. Reversible Xtream API VLC compatibility, explicit global identity takes precedence. Saved accounts retained; old catalog snapshots reload on next open. Development trial: actual large-account auth and TV process-exit cause remain unverified."
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.4/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.4.apk",
+  "notes": "Consolidated trial: batched catalog I/O, catalog/index reuse, focus/search/fullscreen return, smaller Live labels and scrolling selected name, larger library cards/sidebar/backdrop, scoped diagnostics. Saved accounts retained. Physical TV large-list opening time and exact return behavior remain unverified. Playback unchanged."
 }
