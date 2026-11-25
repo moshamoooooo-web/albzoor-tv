@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2-reborn",
+  "versionCode": 4,
+  "versionName": "1.0.3-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "d7c47ede31bebac0aaaf3fc0c25991b151de6c5426f1efa3bd6f56e074c3aa26",
-  "size": 20085307,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.2/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.2.apk",
-  "notes": "Large disk-backed catalogs; responsive cancellable search; keyboard-aware forms; shared Kufi UI font; updated import and Home background. Remote CC/audio, loading and browse return fixes. Physical TV/provider checks pending; intermittent black/silent playback cause not proven."
+  "sha256": "61210d1a8df31663300aedc43de8e2e81f32c9b0a7bbefb01bd1a995a31df885",
+  "size": 20097595,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.3/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.3.apk",
+  "notes": "Consolidated loading/cache/cancellation and remote/search return corrections. Reversible Xtream API VLC compatibility, explicit global identity takes precedence. Saved accounts retained; old catalog snapshots reload on next open. Development trial: actual large-account auth and TV process-exit cause remain unverified."
 }
