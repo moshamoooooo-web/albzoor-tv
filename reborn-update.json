@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8-reborn",
+  "versionCode": 10,
+  "versionName": "1.0.9-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "eab706db2403ac128fe962008449583f97b515ecb3f64f174706a0f5315cfacf",
-  "size": 20146747,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.8/1-ALBZOOR-1.0.8-code9-REVIEW.apk",
-  "notes": "Channel counter; viewport-edge remote focus; 150ms category sync and playing title; first-channel live autoplay; same-player fullscreen return; compact SQLite browse rows and incremental paging. Local checks passed; own-TV trial required. OpenSubtitles inactive; live dubbing not delivered; LibVLC deferred."
+  "sha256": "9e8b6096d2c0d901ffc8c3598577eb3efa5230f21d4bc925d4325a76b5079122",
+  "size": 20167227,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.9/1-ALBZOOR-1.0.9-code10-REGRESSION-REVIEW.apk",
+  "notes": "Reviewed focus/edge-scroll/list return, cached search and favorites, session/channel retention, account/network validation and keyboard fields. Permanent account total;500ms initial live buffer; approved library layout. Live controls2s, movies/series3s. OpenSubtitles file integration restored and Arabic file download checked. Actual TV timing/provider playback/keyboard remain device-dependent. Live dubbing not delivered; LibVLC deferred."
 }
