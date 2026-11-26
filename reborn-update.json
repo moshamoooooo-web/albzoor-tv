@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7-reborn",
+  "versionCode": 9,
+  "versionName": "1.0.8-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "cd53e3b0e5971fa08cb2eee7c6f133cf2cb1ce1937d09fc27ec3e82c2f4da9d3",
-  "size": 20142651,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.7/3-ALBZOOR-1.0.7-code8-FINAL-review.apk",
-  "notes": "Development update: Xtream/Stalker category-first index, streamed M3U import,100-row local paging, saved-only cross-section search, full local favorites, bounded artwork cache,3-second metadata deadline, per-account timezone and optional bounded403retry. No hidden whole-list search/count download. OpenSubtitles activation disabled, live dubbing not delivered, LibVLC deferred. Physical TV/private-provider and Keystore behavior unverified."
+  "sha256": "eab706db2403ac128fe962008449583f97b515ecb3f64f174706a0f5315cfacf",
+  "size": 20146747,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.8/1-ALBZOOR-1.0.8-code9-REVIEW.apk",
+  "notes": "Channel counter; viewport-edge remote focus; 150ms category sync and playing title; first-channel live autoplay; same-player fullscreen return; compact SQLite browse rows and incremental paging. Local checks passed; own-TV trial required. OpenSubtitles inactive; live dubbing not delivered; LibVLC deferred."
 }
