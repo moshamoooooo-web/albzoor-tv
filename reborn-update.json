@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4-reborn",
+  "versionCode": 6,
+  "versionName": "1.0.5-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "3bef0ba21daeeb3ae0b6c33e41c75306916cc1ef51962d1cecf1501263378198",
-  "size": 20097595,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.4/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.4.apk",
-  "notes": "Consolidated trial: batched catalog I/O, catalog/index reuse, focus/search/fullscreen return, smaller Live labels and scrolling selected name, larger library cards/sidebar/backdrop, scoped diagnostics. Saved accounts retained. Physical TV large-list opening time and exact return behavior remain unverified. Playback unchanged."
+  "sha256": "1e41aa46dd46d3b6aa5b284705ed5193447452cf2590157cf44af6ea5bb76fa0",
+  "size": 20109883,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.5/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.5.apk",
+  "notes": "Development trial: bounded viewer stream-type recognition and one evidenced retry; proxy deadline/cancellation, search focus, settings return, catalog read/index reuse, TXT streaming import and launcher corrections. Stalker three-sample change excluded. No VPN or new codec pack. Saved accounts retained. Physical TV/provider playback remains unverified."
 }
