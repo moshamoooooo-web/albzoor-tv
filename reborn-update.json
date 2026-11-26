@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6-reborn",
+  "versionCode": 8,
+  "versionName": "1.0.7-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "2634d3444753f298b827ee1dffe8259f093ad79b366357d6705e6a1ded6f0bed",
-  "size": 20134459,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.6/1-ALBZOOR-1.0.6-code7-INCREMENTAL-review.apk",
-  "notes": "Development trial: Xtream category-first incremental catalogs, bounded local pages, completed-cache fallback, manual refresh, optional per-account headers and HTTP/SOCKS5 API-only/all/direct routing. Global search/Favourite/History/order asks before completing missing categories. Stalker/M3U catalog redesign deferred. Saved accounts retained. No VPN or codec pack. Physical TV/private-provider and device keystore behavior unverified."
+  "sha256": "cd53e3b0e5971fa08cb2eee7c6f133cf2cb1ce1937d09fc27ec3e82c2f4da9d3",
+  "size": 20142651,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.7/3-ALBZOOR-1.0.7-code8-FINAL-review.apk",
+  "notes": "Development update: Xtream/Stalker category-first index, streamed M3U import,100-row local paging, saved-only cross-section search, full local favorites, bounded artwork cache,3-second metadata deadline, per-account timezone and optional bounded403retry. No hidden whole-list search/count download. OpenSubtitles activation disabled, live dubbing not delivered, LibVLC deferred. Physical TV/private-provider and Keystore behavior unverified."
 }
