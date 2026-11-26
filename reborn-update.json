@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.5-reborn",
+  "versionCode": 7,
+  "versionName": "1.0.6-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "1e41aa46dd46d3b6aa5b284705ed5193447452cf2590157cf44af6ea5bb76fa0",
-  "size": 20109883,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.5/1-ALBZOOR-PLAYER-TV-8K-NEW-1.0.5.apk",
-  "notes": "Development trial: bounded viewer stream-type recognition and one evidenced retry; proxy deadline/cancellation, search focus, settings return, catalog read/index reuse, TXT streaming import and launcher corrections. Stalker three-sample change excluded. No VPN or new codec pack. Saved accounts retained. Physical TV/provider playback remains unverified."
+  "sha256": "2634d3444753f298b827ee1dffe8259f093ad79b366357d6705e6a1ded6f0bed",
+  "size": 20134459,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.6/1-ALBZOOR-1.0.6-code7-INCREMENTAL-review.apk",
+  "notes": "Development trial: Xtream category-first incremental catalogs, bounded local pages, completed-cache fallback, manual refresh, optional per-account headers and HTTP/SOCKS5 API-only/all/direct routing. Global search/Favourite/History/order asks before completing missing categories. Stalker/M3U catalog redesign deferred. Saved accounts retained. No VPN or codec pack. Physical TV/private-provider and device keystore behavior unverified."
 }
