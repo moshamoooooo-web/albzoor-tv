@@ -1,9 +1,9 @@
 {
-  "versionCode": 11,
-  "versionName": "1.0.10-reborn",
+  "versionCode": 12,
+  "versionName": "1.0.11-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "1a0687991fcefe94d7585b3db2aa137d65b5264382a3a3c8eb2cb698d461ab2b",
-  "size": 20187763,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.10/1-1-ALBZOOR-1.0.10-code11-UNVERIFIED-DEVELOPMENT.apk",
-  "notes": "UNVERIFIED-DEVELOPMENT. Exclusive Arabic voice-only/text-only/OFF; optional Gemini stream translation defaultOFF with upload consent and device key setup; offline Arabic subtitle TTS. Gemini text-only still uploads audio and uses quota. No foreign SRT auto-translation or QR pairing. Large-account mode, MAG defaults/header protection, HOME release, neutral SurfaceView and channel picture-reset fix. TV/provider/color/audio/endurance remain unverified."
+  "sha256": "1a38192431164e97c8c91688c6e5b4f8b897be27fc52ec21db41b2a10a5db05d",
+  "size": 20212409,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.11/1-1-ALBZOOR-TV-1.0.11-code12-UNVERIFIED-DEVELOPMENT.apk",
+  "notes": "UNVERIFIED-DEVELOPMENT. Local QR key provisioning with ALBZOOR Link Android companion, same LAN, pinned encrypted TLS and TV approval, no relay. Retains code11 voice/text/OFF modes, session consent and settings. No real key embedded. Phone camera, TV AndroidKeyStore TLS, LAN and hardware remain unverified. No formal security audit. Manual entry available. Provisioning does not enable cloud translation."
 }
