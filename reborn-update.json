@@ -1,9 +1,9 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11-reborn",
+  "versionCode": 13,
+  "versionName": "1.0.12-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "1a38192431164e97c8c91688c6e5b4f8b897be27fc52ec21db41b2a10a5db05d",
+  "sha256": "3f6211f909fd78c7154ef13fa7f8fb3bf358b0fa61956166c2e20b03668b52be",
   "size": 20212409,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.11/1-1-ALBZOOR-TV-1.0.11-code12-UNVERIFIED-DEVELOPMENT.apk",
-  "notes": "UNVERIFIED-DEVELOPMENT. Local QR key provisioning with ALBZOOR Link Android companion, same LAN, pinned encrypted TLS and TV approval, no relay. Retains code11 voice/text/OFF modes, session consent and settings. No real key embedded. Phone camera, TV AndroidKeyStore TLS, LAN and hardware remain unverified. No formal security audit. Manual entry available. Provisioning does not enable cloud translation."
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.12/1-1-ALBZOOR-TV-1.0.12-code13-UNVERIFIED-DEVELOPMENT.apk",
+  "notes": "تحديث تجريبي غير مثبت على أجهزتك: محاولة توافق الاتصال المشفّر لربط Gemini، ورموز خطأ واضحة على الهاتف والتلفزيون. حدّث ALBZOOR Link إلى0.2، لا يوجد بحث تلقائي في هذه النسخة. موافقة الحفظ على التلفزيون مطلوبة."
 }
