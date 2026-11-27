@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.14-reborn",
+  "versionCode": 16,
+  "versionName": "1.0.15-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "82bf99eb6696afe217f104ddc444d51ba8ac7fdb65d0a5d2320fa0700f9a92f7",
-  "size": 20216505,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.14/1-1-ALBZOOR-TV-1.0.14-code15-UNVERIFIED-DEVELOPMENT.apk",
-  "notes": "تحديث تجريبي: زر ترجمة / دبلجة ظاهر داخل البث وفي قائمة القنوات، دون زر MENU. من ملء الشاشة اضغط يمين أو يسار ثم OK. يحافظ على CC والصوت، ولا يعيد إدخال المفتاح. أصلح تنبيه الحفظ القديم. يحتاج موافقة إرسال صوت القناة إلى Google واختيار المدة، ولم تثبت الدبلجة على جهازك بعد. Link0.2 كما هو، ولا بحث تلقائي."
+  "sha256": "5d4391a7a20f3fb69411702a63b7785da223a6e69930b55a8e6230577cf22f47",
+  "size": 20376331,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.15/1-ALBZOOR-TV-1.0.15-code16-UNVERIFIED-DEVELOPMENT.apk",
+  "notes": "تحديث تجريبي: إصلاح قراءة TXT الكبير والتقارير المزخرفة، مع عدّ البايتات والأسطر والملفات المكررة. لا تُحفظ الحسابات كعاملة إلا بعد اختبار قناة فعلية. تجربة ترجمة نصية واحدة لصوت قناة حيّة لمدة 8 ثوان، تحتاج مفتاحَي Google وGroq محفوظين محلياً وموافقة صريحة. بلا دبلجة أو إعادة تلقائية. حد محلي لتجربة واحدة كل 24 ساعة، وليس ضمان حصة مجانية لدى المزود. اجتاز 372 اختباراً محلياً؛ النتيجة على التلفزيون لم تثبت بعد."
 }
