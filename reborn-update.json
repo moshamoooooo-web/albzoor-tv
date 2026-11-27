@@ -1,9 +1,9 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13-reborn",
+  "versionCode": 15,
+  "versionName": "1.0.14-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "92884c95e73eca131ab5738ee174075e629b3e0ceb3daac51f4326ab152cc1a4",
+  "sha256": "82bf99eb6696afe217f104ddc444d51ba8ac7fdb65d0a5d2320fa0700f9a92f7",
   "size": 20216505,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.13/1-1-ALBZOOR-TV-1.0.13-code14-UNVERIFIED-DEVELOPMENT.apk",
-  "notes": "تحديث تجريبي: إظهار وإخفاء المفتاح المكتوب فقط، وحالة حفظ واضحة، وزر فحص اختياري لدى Google دون صوت أو تشغيل ترجمة. قبول بيانات النماذج لا يضمن الدبلجة أو الحصة. يحتفظ بمحاولة توافق الربط ورموز الخطأ. Link0.2 كما هو، ولا بحث تلقائي."
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.14/1-1-ALBZOOR-TV-1.0.14-code15-UNVERIFIED-DEVELOPMENT.apk",
+  "notes": "تحديث تجريبي: زر ترجمة / دبلجة ظاهر داخل البث وفي قائمة القنوات، دون زر MENU. من ملء الشاشة اضغط يمين أو يسار ثم OK. يحافظ على CC والصوت، ولا يعيد إدخال المفتاح. أصلح تنبيه الحفظ القديم. يحتاج موافقة إرسال صوت القناة إلى Google واختيار المدة، ولم تثبت الدبلجة على جهازك بعد. Link0.2 كما هو، ولا بحث تلقائي."
 }
