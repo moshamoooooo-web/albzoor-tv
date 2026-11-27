@@ -1,9 +1,9 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9-reborn",
+  "versionCode": 11,
+  "versionName": "1.0.10-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "9e8b6096d2c0d901ffc8c3598577eb3efa5230f21d4bc925d4325a76b5079122",
-  "size": 20167227,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.9/1-ALBZOOR-1.0.9-code10-REGRESSION-REVIEW.apk",
-  "notes": "Reviewed focus/edge-scroll/list return, cached search and favorites, session/channel retention, account/network validation and keyboard fields. Permanent account total;500ms initial live buffer; approved library layout. Live controls2s, movies/series3s. OpenSubtitles file integration restored and Arabic file download checked. Actual TV timing/provider playback/keyboard remain device-dependent. Live dubbing not delivered; LibVLC deferred."
+  "sha256": "1a0687991fcefe94d7585b3db2aa137d65b5264382a3a3c8eb2cb698d461ab2b",
+  "size": 20187763,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.10/1-1-ALBZOOR-1.0.10-code11-UNVERIFIED-DEVELOPMENT.apk",
+  "notes": "UNVERIFIED-DEVELOPMENT. Exclusive Arabic voice-only/text-only/OFF; optional Gemini stream translation defaultOFF with upload consent and device key setup; offline Arabic subtitle TTS. Gemini text-only still uploads audio and uses quota. No foreign SRT auto-translation or QR pairing. Large-account mode, MAG defaults/header protection, HOME release, neutral SurfaceView and channel picture-reset fix. TV/provider/color/audio/endurance remain unverified."
 }
