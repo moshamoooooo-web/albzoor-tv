@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12-reborn",
+  "versionCode": 14,
+  "versionName": "1.0.13-reborn",
   "packageName": "dev.albzoor.tv.reborn",
-  "sha256": "3f6211f909fd78c7154ef13fa7f8fb3bf358b0fa61956166c2e20b03668b52be",
-  "size": 20212409,
-  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.12/1-1-ALBZOOR-TV-1.0.12-code13-UNVERIFIED-DEVELOPMENT.apk",
-  "notes": "تحديث تجريبي غير مثبت على أجهزتك: محاولة توافق الاتصال المشفّر لربط Gemini، ورموز خطأ واضحة على الهاتف والتلفزيون. حدّث ALBZOOR Link إلى0.2، لا يوجد بحث تلقائي في هذه النسخة. موافقة الحفظ على التلفزيون مطلوبة."
+  "sha256": "92884c95e73eca131ab5738ee174075e629b3e0ceb3daac51f4326ab152cc1a4",
+  "size": 20216505,
+  "url": "https://github.com/moshamoooooo-web/albzoor-tv/releases/download/reborn-v1.0.13/1-1-ALBZOOR-TV-1.0.13-code14-UNVERIFIED-DEVELOPMENT.apk",
+  "notes": "تحديث تجريبي: إظهار وإخفاء المفتاح المكتوب فقط، وحالة حفظ واضحة، وزر فحص اختياري لدى Google دون صوت أو تشغيل ترجمة. قبول بيانات النماذج لا يضمن الدبلجة أو الحصة. يحتفظ بمحاولة توافق الربط ورموز الخطأ. Link0.2 كما هو، ولا بحث تلقائي."
 }
